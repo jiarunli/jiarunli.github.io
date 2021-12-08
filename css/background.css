@@ -1,0 +1,11 @@
+#web_bg {
+  /* webkit内核 5.1 - 6.0 */
+  background: -webkit-linear-gradient(180deg, #ffffff 0%, #c4c4c4 99%, #7a7a7a 100%);
+  /* Opera 11.1 - 12.0 */
+  background: -o-linear-gradient(180deg, #ffffff 0%, #c4c4c4 99%, #7a7a7a 100%);
+  /* Firefox 3.6 - 15 */
+  background: -moz-linear-gradient(180deg, #ffffff 0%, #c4c4c4 99%, #7a7a7a 100%);
+  /* 标准的语法 */
+  background: linear-gradient(180deg, #ffffff 0%, #c4c4c4 99%, #7a7a7a 100%);
+  /* linear-gradient(90deg, #000000 0%, #807474 99%, #826d83 100%);*/
+}
